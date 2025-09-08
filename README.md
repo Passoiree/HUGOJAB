@@ -1,3 +1,3 @@
 # HUGOJAB
 
-Welcom to the test github of hugod and jab
+Welcome to the test github of hugod and jab
